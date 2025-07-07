@@ -1,1 +1,1 @@
-# Electric-Billing-system
+# Electricity-Billing-System
